@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Controls/">
+    <File Path="CanvasControl.cs" />
+  </Folder>
+  <Folder Name="/Models/">
+    <File Path="Canvas.cs" />
+    <File Path="Layers.cs" />
+    <File Path="NewCanvasDiakog.cs" />
+    <File Path="ProjectData.cs" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="NewCanvasDialog.cs" />
+  </Folder>
+  <Folder Name="/Tools/" />
+  <Folder Name="/Utilities/" />
+  <Project Path="PixelTo.csproj" />
+</Solution>
