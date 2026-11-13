@@ -47,7 +47,7 @@ A simple pixel art editor with layers, built with C# and Windows Forms.
 Requirements: Windows, Visual Studio 2022 or newer, .NET (version as set in `PixelTo.csproj`).
 
 1. Clone the repository
-2. Open `PixelTo.sln` in Visual Studio
+2. Open `PixelTo.slnx` in Visual Studio
 3. Run (F5)
 
 ## Tech stack
